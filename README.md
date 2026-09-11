@@ -32,7 +32,7 @@ Testing authentication mechanisms, privilege boundaries, role separation, and ac
 
 ## Technical Skills
 
-**Programming**
+**Programming Basics**
 
 `JavaScript` `Bash` `Python`
 
@@ -95,3 +95,7 @@ Tools help discover possibilities. Understanding the application's behavior is w
 ## Blog
 
 · [Blog](https://burningresolve.web.id/)
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://raw.githubusercontent.com/burningresolve/burningresolve/output/pacman.svg)
