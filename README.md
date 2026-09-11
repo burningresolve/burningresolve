@@ -8,41 +8,15 @@ I focus on understanding application behavior, trust boundaries, authentication,
 
 ## Security Focus
 
-**Injection & Server-Side**
-
-`SQLi` `SSRF` `XXE` `SSTI` `Request Smuggling`
-
-**Authentication & Authorization**
-
-`OAuth` `JWT` `BOLA` `BOPLA` `BFLA` `GraphQL Authorization`
-
-**Application Logic**
-
-`Business Logic` `Race Conditions`
-
-**File & Path Handling**
-
-`File Upload` `Path Traversal`
-
-**Web Security**
-
-`CORS` `Web Cache Poisoning` `Web Cache Deception`
-
-**Emerging Security**
-
-`Web LLM Attacks`
-
----
+`SQLi` `SSRF` `XXE` `SSTI` `Request Smuggling`  
+`BOLA` `BOPLA` `BFLA` `JWT` `OAuth` `GraphQL Authorization`  
+`Business Logic` `Race Conditions` `File Upload` `Path Traversal`  
+`CORS` `Web Cache Poisoning` `Web Cache Deception` `Web LLM Attacks`
 
 ## Technical Skills
 
-**Programming**
-
-`JavaScript` `Bash` `Python`
-
-**Operating System**
-
-`Ubuntu Linux`
+**Programming:** `JavaScript` `Bash` `Python`  
+**Operating System:** `Ubuntu Linux`
 
 ---
 
@@ -100,3 +74,5 @@ burningresolve.web.id
 ---
 
 ## GitHub Activity
+
+![GitHub Contribution Graph](https://raw.githubusercontent.com/burningresolve/burningresolve/output/pacman.svg)
