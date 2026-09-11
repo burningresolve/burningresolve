@@ -85,7 +85,10 @@ I prefer **manual analysis over blind automation**, using tools to support inves
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/burningresolve/burningresolve/output/pacman.svg" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/readme-arcade-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./dist/readme-arcade.svg">
+    <img src="./dist/readme-arcade.svg" width="920" alt="GitHub Activity">
+  </picture>
 </p>
-
 
