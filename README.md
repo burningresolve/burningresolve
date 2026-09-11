@@ -2,43 +2,47 @@
 
 Independent security researcher focused on **web application and API security**, with an emphasis on manual testing, application analysis, business logic, and bug bounty research.
 
-I approach security testing by understanding how an application actually works before attempting to exploit it. I focus on **application behavior, trust boundaries, authentication, authorization, access control, and business workflows** to identify vulnerabilities that automated scanning may miss.
+I focus on understanding application behavior, trust boundaries, authentication, authorization, access control, and business workflows to identify vulnerabilities that automated testing may miss.
 
 ---
 
-## Focus Areas
+## Security Focus
 
-### Reconnaissance & Attack Surface
+**Injection & Server-Side**
 
-Mapping domains, endpoints, APIs, parameters, technologies, functionality, and application flows to understand the attack surface.
+`SQLi` `SSRF` `XXE` `SSTI` `Request Smuggling`
 
-### Manual Web Application Testing
+**Authentication & Authorization**
 
-Analyzing request flows, application behavior, server-side logic, security boundaries, and state transitions through manual testing.
+`OAuth` `JWT` `BOLA` `BOPLA` `BFLA` `GraphQL Authorization`
 
-### API Security
+**Application Logic**
 
-Testing authentication, authorization, object-level permissions, function-level access control, input handling, and unintended data exposure.
+`Business Logic` `Race Conditions`
 
-### Business Logic
+**File & Path Handling**
 
-Analyzing application workflows and security assumptions to identify vulnerabilities caused by unexpected sequences, states, roles, or conditions.
+`File Upload` `Path Traversal`
 
-### Authentication & Authorization
+**Web Security**
 
-Testing authentication mechanisms, privilege boundaries, role separation, and access control to identify unauthorized functionality and privilege escalation.
+`CORS` `Web Cache Poisoning` `Web Cache Deception`
+
+**Emerging Security**
+
+`Web LLM Attacks`
 
 ---
 
 ## Technical Skills
 
-**Programming Basics**
+**Programming**
 
 `JavaScript` `Bash` `Python`
 
-**Operating Systems**
+**Operating System**
 
-`Linux` `Ubuntu`
+`Ubuntu Linux`
 
 ---
 
@@ -83,19 +87,16 @@ Testing authentication mechanisms, privilege boundaries, role separation, and ac
 
 ## Research Philosophy
 
-> Understand the application first.  
-> Break the assumptions second.
+> Understand the application first. Break the assumptions second.
 
-I prefer **manual analysis over blind automation**.
-
-Tools help discover possibilities. Understanding the application's behavior is what turns those possibilities into meaningful security findings.
+I prefer **manual analysis over blind automation**, using tools to support investigation rather than replace application understanding.
 
 ---
 
 ## Blog
 
-· [Blog](https://burningresolve.web.id/)
+burningresolve.web.id
+
+---
 
 ## GitHub Activity
-
-![GitHub Contribution Graph](https://raw.githubusercontent.com/burningresolve/burningresolve/output/pacman.svg)
