@@ -69,7 +69,7 @@ I prefer **manual analysis over blind automation**, using tools to support inves
 
 ## Blog
 
-[Blog](https://burningresolve.web.id)
+[burningresolve.web.id](https://burningresolve.web.id)
 
 ---
 
