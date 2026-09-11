@@ -75,9 +75,11 @@ I prefer **manual analysis over blind automation**, using tools to support inves
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=burningresolve&show_icons=true&theme=transparent&hide_border=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burningresolve&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=burningresolve&layout=compact&theme=transparent&hide_border=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=burningresolve&theme=github_dark)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=burningresolve&theme=github_dark)
 
 ![GitHub Contribution Graph](https://raw.githubusercontent.com/burningresolve/burningresolve/output/pacman.svg)
 
