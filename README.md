@@ -23,6 +23,8 @@ I start by building an accurate model of the application: its architecture, feat
 
 Technical write-ups and methodology notes: [burningresolve.web.id](https://burningresolve.web.id)
 
+---
+
 ## GitHub Activity
 
 <p align="center">
