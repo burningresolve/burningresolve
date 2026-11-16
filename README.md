@@ -1,75 +1,29 @@
 # I research how web applications break.
 
-Independent security researcher focused on **web application and API security**, with an emphasis on manual testing, application analysis, business logic, and bug bounty research.
+## Independent security researcher in web application and API security
 
-I focus on understanding application behavior, trust boundaries, authentication, authorization, access control, and business workflows to identify vulnerabilities that automated testing may miss.
-
----
-
-## Security Focus
-
-`SQLi` `SSRF` `XXE` `SSTI` `Request Smuggling`  
-`BOLA` `BOPLA` `BFLA` `JWT` `OAuth` `GraphQL Authorization`  
-`Business Logic` `Race Conditions` `File Upload` `Path Traversal`  
-`CORS` `Web Cache Poisoning` `Web Cache Deception` `Web LLM Attacks`
-
-## Technical Skills
-
-**Programming:** `JavaScript` `Bash` `Python`  
-**Operating System:** `Ubuntu Linux`
+I conduct manual security research on web applications and APIs, with a focus on authentication, authorization, access control, and business logic. My work spans bug bounty programs on HackerOne and Bugcrowd, as well as private engagements.
 
 ---
 
-## Testing Methodology
+## Research approach
 
-```text
-01  Reconnaissance
-    Identify the application's attack surface, technologies,
-    endpoints, APIs, parameters, and important functionality.
-
-02  Application Understanding
-    Understand workflows, request flows, roles, objects,
-    relationships, and trust boundaries.
-
-03  Manual Testing
-    Manipulate requests, parameters, identities, roles,
-    objects, HTTP methods, and application states.
-
-04  Business Logic Analysis
-    Analyze workflows and security assumptions for
-    unexpected sequences, states, and conditions.
-
-05  Authentication & Authorization
-    Test privilege boundaries, role separation,
-    authentication controls, and access control.
-
-06  API Security Testing
-    Assess object-level/function-level authorization,
-    authentication, input handling, and data exposure.
-
-07  Exploitation & Validation
-    Manually validate suspected vulnerabilities and
-    establish reliable, reproducible attack paths.
-
-08  Impact & Documentation
-    Document PoC evidence, exploitation steps,
-    technical impact, affected functionality,
-    and remediation recommendations.
-```
+I start by building an accurate model of the application: its architecture, feature interactions, trust boundaries, and the assumptions its developers made. I then test how those assumptions hold up across different roles, object references, and workflow states. Tools support my investigation and help validate findings, but hands-on analysis remains at the center of my work.
 
 ---
 
-## Research Philosophy
+## Areas of focus
 
-> Understand the application first. Break the assumptions second.
-
-I prefer **manual analysis over blind automation**, using tools to support investigation rather than replace application understanding.
+- Authentication and session management
+- Authorization and access control, including object-level and function-level enforcement
+- Business logic vulnerabilities and multi-step workflow abuse
+- API security, including relationships between endpoints, objects, and roles
 
 ---
 
-## Blog
+## Writing
 
-[burningresolve.web.id](https://burningresolve.web.id)
+Technical write-ups and methodology notes: [burningresolve.web.id](https://burningresolve.web.id)
 
 ---
 
