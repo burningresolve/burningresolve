@@ -1,8 +1,6 @@
 # I research how web applications break.
 
-## Independent security researcher in web application and API security
-
-I conduct manual security research on web applications and APIs, with a focus on authentication, authorization, access control, and business logic. My work spans bug bounty programs on HackerOne and Bugcrowd, as well as private engagements.
+Independent security researcher specializing in web application and API security, focusing on authentication, authorization, access control, and business logic vulnerabilities. Experienced in manual security testing through bug bounty programs on HackerOne and Bugcrowd, as well as private engagements.
 
 ---
 
