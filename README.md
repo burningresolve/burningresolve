@@ -10,14 +10,14 @@ I start by building an accurate model of the application: its architecture, feat
 
 ---
 
+<!--
 ## Areas of focus
 
 - Authentication and session management
 - Authorization and access control, including object-level and function-level enforcement
 - Business logic vulnerabilities and multi-step workflow abuse
 - API security, including relationships between endpoints, objects, and roles
-
----
+-->
 
 ## Blog
 
