@@ -19,9 +19,9 @@ I start by building an accurate model of the application: its architecture, feat
 
 ---
 
-## Writing
+## Blog
 
-Technical write-ups and methodology notes: [burningresolve.web.id](https://burningresolve.web.id)
+[burningresolve.web.id](https://burningresolve.web.id)
 
 ---
 
